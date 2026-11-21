@@ -1,4 +1,4 @@
-# 🛡️ SMART SENTINEL v2.1 — AI Anti-Shoulder Surfer & Intelligent Privacy Shield
+# ScreenPrivacyLock
 
 <div align="center">
 
